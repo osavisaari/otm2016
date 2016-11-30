@@ -4,3 +4,4 @@
 
 *this is italicized*
 
+[Käyttöohjeet](https://github.com/osavisaari/otm2016/blob/master/kaytto-ohjeet.txt)
