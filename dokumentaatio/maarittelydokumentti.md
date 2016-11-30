@@ -1,1 +1,1 @@
-<img src="http://yuml.me/diagram/scruffy/class/[Customer]->[Billing Address]"
+http://yuml.me/3719ae27
