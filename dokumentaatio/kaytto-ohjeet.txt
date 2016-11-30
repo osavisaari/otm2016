@@ -1,1 +1,4 @@
 tässä tiedostossa on käyttö-ohjeet gitille. 
+
+
+#tehdään tänne toinen epäsynkronia.#
