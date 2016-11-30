@@ -5,3 +5,5 @@
 *this is italicized*
 
 [Käyttöohjeet](https://github.com/osavisaari/otm2016/blob/master/kaytto-ohjeet.txt)
+
+[Kaavio] (http://yuml.me/3719ae27)
